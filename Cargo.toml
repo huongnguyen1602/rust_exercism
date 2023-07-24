@@ -1,0 +1,12 @@
+[package]
+name = "rust_exercism"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+time = "0.3.23"
+num-bigint = "0.3.3"
+num-traits = "0.2.15"
+unicode-segmentation = "1.10.1"
